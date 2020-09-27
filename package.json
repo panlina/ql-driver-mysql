@@ -1,0 +1,14 @@
+{
+  "name": "ql-driver-mysql",
+  "version": "0.0.0",
+  "author": "Jack Lu <jacklu@jacklu.me>",
+  "license": "ISC",
+  "peerDependencies": {
+    "ql": "panlina/ql"
+  },
+  "dependencies": {
+    "mysql": "^2.17.1",
+    "ql-sql": "panlina/ql-sql",
+    "sql": "panlina/sql"
+  }
+}

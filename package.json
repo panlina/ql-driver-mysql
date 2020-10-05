@@ -10,5 +10,8 @@
     "mysql": "^2.17.1",
     "ql-sql": "panlina/ql-sql",
     "sql": "panlina/sql"
+  },
+  "devDependencies": {
+    "ql": "panlina/ql"
   }
 }
